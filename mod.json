@@ -1,0 +1,16 @@
+{
+	"geode": "3.0.0",
+	"gd": {
+		"android": "2.206",
+		"ios": "2.206",
+		"mac": "2.206",
+		"win": "2.206"
+	},
+	"version": "v1.0.0",
+	"id": "h1lkaaa.test",
+	"name": "Mod",
+	"developers": [
+		"h1lkaaa"
+	],
+	"description": "HELLOW!"
+}
